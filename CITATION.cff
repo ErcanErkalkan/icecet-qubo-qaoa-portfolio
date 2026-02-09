@@ -1,11 +1,25 @@
 cff-version: 1.2.0
-message: "If this repository is used in academic work, please cite the associated ICECET 2026 manuscript."
+message: "If this repository is used in academic work, please cite the associated ICECET 2026 conference paper."
 title: "Reproducible QUBO–QAOA Benchmark for Cardinality-Constrained Mean–Variance Portfolio Selection"
 type: software
+
 authors:
-  - family-names: "Ata"
-    given-names: ""
+  - family-names: "Kılıç"
+    given-names: "Ata Sani"
   - family-names: "Erkalkan"
     given-names: "Ercan"
+
 year: 2026
 license: MIT
+
+preferred-citation:
+  type: conference-paper
+  title: "Reproducible QUBO–QAOA Benchmark for Cardinality-Constrained Mean–Variance Portfolio Selection"
+  authors:
+    - family-names: "Kılıç"
+      given-names: "Ata Sani"
+    - family-names: "Erkalkan"
+      given-names: "Ercan"
+  year: 2026
+  conference:
+    name: "International Conference on Electrical, Computer and Energy Technologies (ICECET 2026)"
